@@ -6,7 +6,7 @@ $my_array = array( "Virat Kohli", "Shikhar Dhawan", "M.S Dhoni","Suresh Raina","
 
 ?>
 <h1 style="text-align:center"><u>Indian Cricket Players</u></h1>
-<table border=Â”1Â” align="center">
+<table border=”1” align="center">
 <tr>
 <th>Sl.No</th>
 <th>Name of Players</th>
